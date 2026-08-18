@@ -1,5 +1,3 @@
-# Solar-Power-Generation-Prediction-System
-A machine learning system that predicts solar radiation (W/m²) using historical weather data, built with XGBoost.
 Solar Power Generation Prediction System
 A machine learning system that predicts solar radiation (W/m²) using historical weather data, built with XGBoost.
 
